@@ -1,6 +1,9 @@
 **Name:** Sliced Invoices API Connector
+
 **Version:** 1.0.0
+
 **Description:** Extends the features of Sliced Invoice plugin to be reachable by external apps via WP native REST API.
+
 **License:** GNU GPLv3
 
 #### Details:
