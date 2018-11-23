@@ -97,7 +97,7 @@
 
 #### Notes:
 
-1.  Both, WooCommerce and Sliced Invoices must be activated.
+1.  Both, [WooCommerce](https://wordpress.org/plugins/woocommerce/) and [Sliced Invoices](https://wordpress.org/plugins/sliced-invoices/) must be activated.
 1.  The plugin uses [WC Authentication methods](https://woocommerce.github.io/woocommerce-rest-api-docs/#authentication).
 1.  Site with SSL is recommended.
 1.  Internally the plugin will resolve the **customer_email** parameter to an existing user, if no user exists with that email, it will be created.
